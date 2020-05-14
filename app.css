@@ -103,11 +103,17 @@ padding: 1rem;
 box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.26);
 padding: 1rem;
 margin: 1rem;
+/* border: 1px solid black; */
+background: white;
 }
 
 .projects li h2 {
 color: #ff0062;
 margin: 0.5rem 0;
+}
+
+.droppable {
+    background: #ffe3ee;
 }
 
 #finished-projects li h2 {
